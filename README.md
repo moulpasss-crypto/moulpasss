@@ -2,11 +2,12 @@
 
 ## About Me
 
+![ex_screenshot](face.jpg)
 
-< img src = "face.jpg" width = "350px" height = "500px">
-
-**NAME** : *Choi HyunJun* &nbsp;
-**HOOBY** :*WebSurfing, Play Games,Talk with friends, etc* &nbsp;
+**NAME** : *Choi HyunJun* 
+&nbsp;
+**HOOBY** :*WebSurfing, Play Games,Talk with friends, etc* 
+&nbsp;
 **HOPE** : *Being Good Developer*,~~Richer~~ &nbsp;
 
 &nbsp;
